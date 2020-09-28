@@ -24,15 +24,15 @@ body {
 .swiper-slide {
   background-position: center;
   background-size: cover;
-  width: 420px;
+  width: 520px;
   background-color: #fff;
   overflow: hidden;
   border-radius: 8px;
 }
 
 .picture {
-  width: 420px;
-  height: 420px;
+  width: 520px;
+  height: 520px;
   overflow: hidden;
 }
 .picture img {
