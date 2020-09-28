@@ -50,10 +50,10 @@ body {
 }
 .detail h3 {
   margin: 0;
-  font-size: 20px;
+  font-size: 24px;
 }
 .detail span {
   display: block;
-  font-size: 16px;
+  font-size: 20px;
   color: #f44336;
 }
